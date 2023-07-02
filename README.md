@@ -1,7 +1,7 @@
 # whatbot
 This is a simple bot for  Whatsapp
 
-# Whatsapp Bot Readme
+# Whatbot Readme
 
 This Whatsapp bot is designed to provide automated responses to user queries, and it has been developed using Python programming language. Please follow the instructions below to set up and use the bot effectively.
 
