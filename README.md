@@ -14,7 +14,7 @@ Before using this bot, please ensure that you have Python installed on your mach
 3. Install the required dependencies by running the following command: `pip install -r requirements.txt`
 
 ## Usage
-1. Launch the Whatsapp bot by running the `main.py` file using Python.
+1. Launch the Whatsapp bot by running the `whatbot.py` file using Python.
 2. Scan the QR code that appears using your Whatsapp mobile app to log in.
 3. Once logged in, you can start sending messages to the bot's phone number to receive automated responses.
 
@@ -22,6 +22,6 @@ Before using this bot, please ensure that you have Python installed on your mach
 Please refrain from editing the source code of the Whatsapp bot unless you have a clear understanding of Python programming and the bot's functionality. Modifying the source code without proper knowledge may result in unexpected behavior or errors.
 
 ## Support
-If you encounter any issues or have any questions regarding the Whatsapp bot, please feel free to reach out to the bot's developer at [email address] or [phone number].
+If you encounter any issues or have any questions regarding Whatbot, please leave a comment 
 
-Thank you for using the Whatsapp bot! Enjoy your automated messaging experience.
+Thank you for using the Whatbot! Enjoy your automated messaging experience.
