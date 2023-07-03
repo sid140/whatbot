@@ -21,7 +21,7 @@ while True:
     runner = input('Enter the Whatsapp name: ')
     lind = input("Enter the first link: ")
     msg = input("Enter the message: " + eva + "\n")
-    print("Entered message:", msg)
+    print("Sent message: ", msg)
     if cold == 'OK':
         rub.press('win', interval=0.2)
         rub.write('Whatsapp', interval=0.2)
