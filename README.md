@@ -3,7 +3,7 @@ This is a simple bot for  Whatsapp
 
 # Whatbot Readme
 
-This Whatbot is designed to provide automated responses to user queries, and it has been developed using Python programming language. Please follow the instructions below to set up and use the bot effectively.
+This Whatbot is designed to send automated responses to user queries, and it has been developed using Python programming language. Please follow the instructions below to set up and use the bot effectively.
 
 ## Prerequisites
 Before using this bot, please ensure that you have Python installed on your machine. If you don't have Python installed, you can download it from the official Python website: [https://www.python.org/downloads/](https://www.python.org/downloads/)
