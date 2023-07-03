@@ -17,7 +17,7 @@ print(jimmy)
 
 while True:
     cold = rub.alert(text='Welcome to Whatbot, a Whatsapp bot created SJK', title='Circus', button='OK')
-    print("Selfish advertisement: This bot is developed by Sid\n")
+    print("Shameless advertisement: This bot is developed by Sid\n")
     runner = input('Enter the Whatsapp name: ')
     lind = input("Enter the first link: ")
     msg = input("Enter the message: \n")
