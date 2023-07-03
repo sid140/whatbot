@@ -16,7 +16,7 @@ I8,        8        ,8I 88        88        db   888888888888 88888888ba    ,ad8
 print(jimmy)
 
 while True:
-    cold = rub.alert(text='Welcome to Whatbot, a Whatsapp bot created SJK', title='Circus', button='OK')
+    cold = rub.alert(text='Welcome to Whatbot, a Whatsapp bot created by Sid', title='Whatbot dev by Sid', button='OK')
     print("Shameless advertisement: This bot is developed by Sid\n")
     runner = input('Enter the Whatsapp name: ')
     lind = input("Enter the first link: ")
