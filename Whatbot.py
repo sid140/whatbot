@@ -20,7 +20,7 @@ while True:
     print("Shameless advertisement: This bot is developed by Sid\n")
     runner = input('Enter the Whatsapp name: ')
     lind = input("Enter the first link: ")
-    msg = input("Enter the message: \n")
+    msg = input("Enter the message:*MESSAGE BY WHATBOT* \n")
     
     if cold == 'OK':
         rub.press('win', interval=0.2)
