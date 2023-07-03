@@ -14,14 +14,14 @@ I8,        8        ,8I 88        88        db   888888888888 88888888ba    ,ad8
 '''
 
 print(jimmy)
-
+eva = "THIS IS A MESSAGE BY WHATBOT"
 while True:
     cold = rub.alert(text='Welcome to Whatbot, a Whatsapp bot created by Sid', title='Whatbot dev by Sid', button='OK')
     print("Shameless advertisement: This bot is developed by Sid\n")
     runner = input('Enter the Whatsapp name: ')
     lind = input("Enter the first link: ")
-    msg = input("Enter the message:*MESSAGE BY WHATBOT* \n")
-    
+    msg = input("Enter the message: " + eva + "\n")
+    print("Entered message:", msg)
     if cold == 'OK':
         rub.press('win', interval=0.2)
         rub.write('Whatsapp', interval=0.2)
