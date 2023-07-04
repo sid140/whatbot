@@ -1,3 +1,1 @@
-Whatbot is a simple tool to automate the sending of WhatsApp messages using Whatsapp Desktop application 
-
-You can send feeback or suggestion or report if the application by sending a DM to the me on Discord :bonobo_sid
+Whatbot is a simple tool for automating the sending of WhatsApp messages using the WhatsApp Desktop application. If you have any feedback, suggestions, or reports regarding the application, you can send a direct message (DM) to me on Discord: bonobo_sid.
