@@ -1,0 +1,1 @@
+#Reporting Process: If you discover a vulnerability, please report it promptly by contacting me on Discord. You can reach me on Discord at bonobo_sid. Provide a detailed description of the vulnerability, steps to reproduce it, and any relevant supporting materials such as code snippets or screenshots.
